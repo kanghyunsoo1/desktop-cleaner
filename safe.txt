@@ -1,0 +1,5 @@
+desktop.ini
+workspace
+Google Drive.lnk
+safe.txt
+removeTrash.py
